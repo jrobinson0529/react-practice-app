@@ -29,4 +29,8 @@
 }
 .btn-container {
   margin-top: auto;
+  .btn {
+    border: none;
+    background: $backgroundMain;
+  }
 }
